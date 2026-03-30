@@ -2,10 +2,10 @@
 
 **VIT Bhopal University**  
 **Course:** CSA - Fundamentals of AI and ML  
-**Instructor:** Prof. Santosh Kumar Sahoo  
-**Student Name:** Abhra Banerjee  
-**Registration Number:** 25BCY10118  
-**Submission Date:** November 24, 2025
+**Instructor:** Prof. Vinesh kumar
+**Student Name:** Drashya Vishwakarma
+**Registration Number:** 25BAI11277 
+**Submission Date:** 30 april, 2026
 
 ---
 
