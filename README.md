@@ -3,9 +3,9 @@
 **Institution:** VIT Bhopal University  
 **Course:** CSA (Fundamentals of AI and ML)  
 **Instructor:** Prof. Vinesh kumar
-**Student Name:** Drashya https://github.com/drashyavish26/Word-Ladder-Solverishwakarma
+**Student Name:**Drashya Vishwakarma
 **Registration Number:** 25BAI11277
-**Academic Year:** 2025-26
+
 
 ---
 
