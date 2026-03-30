@@ -2,9 +2,9 @@
 
 **Institution:** VIT Bhopal University  
 **Course:** CSA (Fundamentals of AI and ML)  
-**Instructor:** Prof. Santosh Kumar Sahoo  
-**Student Name:** Abhra Banerjee  
-**Registration Number:** 25BCY10118  
+**Instructor:** Prof. Vinesh kumar
+**Student Name:** Drashya https://github.com/drashyavish26/Word-Ladder-Solverishwakarma
+**Registration Number:** 25BAI11277
 **Academic Year:** 2025-26
 
 ---
